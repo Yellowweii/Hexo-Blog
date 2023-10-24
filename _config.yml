@@ -105,4 +105,4 @@ deploy:
   type: git
   repo: git@118.89.95.4:/home/git/blog.git
   branch: master
-  message:
+  message: 
