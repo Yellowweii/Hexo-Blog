@@ -1,7 +1,7 @@
 ---
 title: My First Post
 date: 2023-10-22 15:39:31
-category: ['hexo']
+categories: ["hexo"]
 ---
 
 # Talk about my understand of Hexo

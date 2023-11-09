@@ -1,6 +1,9 @@
 ---
-title: {{title}}
-date: {{date}}
+title: { { title } }
+date: { { date } }
+tags:
+categories:
+cover:
 ---
 
 作者: Jerry
