@@ -2,6 +2,7 @@
 title: My First Post
 date: 2023-10-22 15:39:31
 categories: ["hexo"]
+cover: https://www.yellowwei.cn/img/my-first-post.jpg
 ---
 
 # Talk about my understand of Hexo
