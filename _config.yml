@@ -6,7 +6,7 @@
 title: Yellowwei の 博客
 subtitle: ""
 description: "We cannot judge the value of an instant until it becomes a memory."
-keywords:
+keywords: blog hexo theme butterfly Yellowwei
 author: Yellowwei
 language: zh-CN
 timezone: Asia/Shanghai
@@ -14,7 +14,7 @@ timezone: Asia/Shanghai
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: https://blog.yellowwei.cn
-permalink: :year/:month/:day/:title/
+permalink: :title.html
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
