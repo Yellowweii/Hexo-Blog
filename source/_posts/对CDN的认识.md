@@ -1,9 +1,12 @@
 ---
 title: 对CDN的认识
+tags:
+  - CDN
+categories:
+  - 前端性能优化
+cover: 'https://www.yellowwei.cn/img/2023-11-11.jpg'
+abbrlink: 48652
 date: 2023-11-10 15:41:30
-tags: ["CDN"]
-categories: ["前端性能优化"]
-cover: https://www.yellowwei.cn/img/2023-11-11.jpg
 ---
 
 # 什么是 CDN
