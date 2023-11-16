@@ -9,4 +9,5 @@ date: 2023-11-15 16:06:23
 ![](https://www.yellowwei.cn/img/people/3.jpg)
 ![](https://www.yellowwei.cn/img/people/4.jpg)
 ![](https://www.yellowwei.cn/img/people/5.jpg)
+![](https://www.yellowwei.cn/img/people/6.jpg)
 {% endgallery %}
