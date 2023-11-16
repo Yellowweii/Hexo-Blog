@@ -1,9 +1,12 @@
 ---
 title: 对Framer Motion的理解
+tags:
+  - Framer Motion
+categories:
+  - React动画库
+cover: 'https://www.yellowwei.cn/img/2023-11-14.jpg'
+abbrlink: 7841
 date: 2023-11-14 19:54:30
-tags: ["Framer Motion"]
-categories: ["React动画库"]
-cover: https://www.yellowwei.cn/img/2023-11-14.jpg
 ---
 
 # 什么是 Framer Motion

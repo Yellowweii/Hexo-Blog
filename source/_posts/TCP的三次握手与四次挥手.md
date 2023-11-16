@@ -1,9 +1,12 @@
 ---
 title: TCP的三次握手与四次挥手
+tags:
+  - TCP
+categories:
+  - 计算机网络
+cover: 'https://www.yellowwei.cn/img/2023-11-16.jpg'
+abbrlink: 2935
 date: 2023-11-16 18:48:30
-tags: ["TCP"]
-categories: ["计算机网络"]
-cover: https://www.yellowwei.cn/img/2023-11-16.jpg
 ---
 
 # TCP 的三次握手
@@ -39,7 +42,7 @@ cover: https://www.yellowwei.cn/img/2023-11-16.jpg
 
 ![](https://www.yellowwei.cn/img/Snipaste_2023-11-16_19-03-44.png)
 
-## 四次挥手 ​​​​​​​ 过程详细说明
+## 四次挥手过程详细说明
 
 > 1. 客户端发送断开 TCP 连接请求的报文，其中报文中包含 seq 序列号，是由发送端随机生成的，并且还将报文中的 FIN 字段置为 1，表示需要断开 TCP 连接。（FIN=1，seq=x，x 由客户端随机生成）
 > 1. 服务端会回复客户端发送的 TCP 断开请求报文，其包含 seq 序列号，是由回复端随机生成的，而且会产生 ACK 字段，ACK 字段数值是在客户端发过来的 seq 序列号基础上加 1 进行回复，以便客户端收到信息时，知晓自己的 TCP 断开请求已经得到验证。（FIN=1，ACK=x+1，seq=y，y 由服务端随机生成）
