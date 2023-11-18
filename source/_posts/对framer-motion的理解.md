@@ -69,7 +69,7 @@ const ExampleComponent = () => {
 
 ```
 
-# Layout动画
+# Layout 动画
 
 > Framer Motion 允许你轻松实现与布局相关的动画，例如元素的位置、大小等变化。
 
