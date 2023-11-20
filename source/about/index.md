@@ -4,8 +4,7 @@ date: 2023-10-22 15:18:31
 type: "about"
 ---
 
-<h1 style="text-align: center;">If you feel happpy, slow down twice as fast. 😆</h1>
-
+<h1 style="text-align: center;">If you feel happy, slow down twice as fast. 😆</h1>
 {% timeline 2023,blue %}
 
 <!-- timeline 01-10 -->
