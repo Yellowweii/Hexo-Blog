@@ -5,7 +5,6 @@ type: "about"
 ---
 
 <h1 style="text-align: center;">If you feel happy, slow down twice as fast. 😆</h1>
-
 {% timeline 2023,blue %}
 
 <!-- timeline 01-10 -->
