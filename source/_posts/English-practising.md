@@ -12,3 +12,8 @@ hear me out 听我说
 masterfully 熟练地，巧妙地
 detect 探测，检测
 archive /ˈɑːkaɪv/ 档案
+exhibit 展览，展示
+coach v.辅导 n.教练
+manufacture v.生产，制造
+massive adj. 大量的
+be thrilled 颤抖的，激动的
