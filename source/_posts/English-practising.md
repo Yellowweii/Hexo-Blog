@@ -17,3 +17,11 @@ cover: https://www.yellowwei.cn/img/78f4eb6a-9549-45e3-bf57-47ed9a493860.jpg
 - manufacture v.生产，制造
 - massive adj. 大量的
 - be thrilled 颤抖的，激动的
+- introvert /ˈintrəˌvərt/ n. 内向的人(i 人)
+- extrovert /ˈekstrəˌvərt/ n. 外向的人
+- be well-intentioned adj. 善意的
+- prioritize v. 优先考虑
+- subtitle n. 字幕
+- weird /wird/ adj. 诡异的
+- insane /inˈsān/ adj. 疯狂的
+- incentive n. 激励，鼓励
