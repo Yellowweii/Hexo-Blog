@@ -29,3 +29,8 @@ cover: https://www.yellowwei.cn/img/78f4eb6a-9549-45e3-bf57-47ed9a493860.jpg
 - upgrade v. 升级，提升
 - literally adv. 字面上
 - crucial factor n. 关键因素
+- thoroughly adv. 彻底地
+- tailor your responses to align with the company's culture 调整你的反应与公司的文化保持一致
+- review v. 审查，仔细检查
+- demonstrate v. /ˈdemənˌstrāt/ 证明
+- innovation n. 创新
