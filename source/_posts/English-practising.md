@@ -25,3 +25,7 @@ cover: https://www.yellowwei.cn/img/78f4eb6a-9549-45e3-bf57-47ed9a493860.jpg
 - weird /wird/ adj. 诡异的
 - insane /inˈsān/ adj. 疯狂的
 - incentive n. 激励，鼓励
+- learning curve n. 学习曲线
+- upgrade v. 升级，提升
+- literally adv. 字面上
+- crucial factor n. 关键因素
