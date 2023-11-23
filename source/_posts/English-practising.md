@@ -34,3 +34,8 @@ cover: https://www.yellowwei.cn/img/78f4eb6a-9549-45e3-bf57-47ed9a493860.jpg
 - review v. 审查，仔细检查
 - demonstrate v. /ˈdemənˌstrāt/ 证明
 - innovation n. 创新
+- articulate their opposition v. 表达清楚他们的反对意见
+- interpretation n. 解释，理解
+- misinterpretation n. 误解
+- eliminate heart disease /iˈlɪmI.neɪt/ v. 排除，消除
+- fancy words adj. 复杂的，花哨的单词
