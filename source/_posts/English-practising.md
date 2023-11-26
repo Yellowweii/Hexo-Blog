@@ -1,7 +1,7 @@
 ---
 title: English practising
 abbrlink: 37453
-date: 2023-10-23 15:39:29
+date: 2023-10-23 15:39:31
 tags:
 categories:
 cover: https://www.yellowwei.cn/img/78f4eb6a-9549-45e3-bf57-47ed9a493860.jpg
@@ -39,3 +39,8 @@ cover: https://www.yellowwei.cn/img/78f4eb6a-9549-45e3-bf57-47ed9a493860.jpg
 - misinterpretation n. 误解
 - eliminate heart disease /iˈlɪmI.neɪt/ v. 排除，消除
 - fancy words adj. 复杂的，花哨的单词
+- immerse yourself in sth  v.  使沉浸于
+- ingredient  n. 原料，成分；因素，要素
+- Trust is a vital ingredient in a successful marriage.
+- sb be stressed out  某人焦虑不安的
+- tackle this problem  v. 处理
