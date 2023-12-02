@@ -52,3 +52,7 @@ cover: https://www.yellowwei.cn/img/78f4eb6a-9549-45e3-bf57-47ed9a493860.jpg
 - strip sth out  v. 剥离
 - deprecate  /ˈdep.rə.keɪt/   v. 弃用，反对
 - We deprecate this use of company funds for political purposes.  我们反对这种将公司资金用于政治目的的做法。
+- revert /rɪˈvɜːt/  v. 还原；恢复
+- suppress v. 压制；抑制
+- She couldn't suppress her annoyance. 压抑
+- symmetric  /sɪˈmet.rɪk/   adj. 对称的
