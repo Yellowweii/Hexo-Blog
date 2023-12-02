@@ -48,3 +48,7 @@ cover: https://www.yellowwei.cn/img/78f4eb6a-9549-45e3-bf57-47ed9a493860.jpg
 - A large amount of money will have to be injected into the company. v. 投入，增添
 - feel overwhelmed adj. 感到不知所措的
 - emulate /ˈem.jə.leɪt/ v. 模仿，效仿
+- scaffold  /ˈskæf.əʊld/  n. 脚手架
+- strip sth out  v. 剥离
+- deprecate  /ˈdep.rə.keɪt/   v. 弃用，反对
+- We deprecate this use of company funds for political purposes.  我们反对这种将公司资金用于政治目的的做法。
