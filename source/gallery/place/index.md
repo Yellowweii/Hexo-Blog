@@ -21,4 +21,6 @@ date: 2023-11-15 16:08:23
 ![](https://www.yellowwei.cn/img/scene/15.jpg)
 ![](https://www.yellowwei.cn/img/scene/16.jpg)
 ![](https://www.yellowwei.cn/img/scene/17.jpg)
+![](https://www.yellowwei.cn/img/scene/18.jpg)
+![](https://www.yellowwei.cn/img/scene/19.jpg)
 {% endgallery %}
