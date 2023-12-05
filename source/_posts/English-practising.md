@@ -48,11 +48,34 @@ cover: https://www.yellowwei.cn/img/78f4eb6a-9549-45e3-bf57-47ed9a493860.jpg
 - A large amount of money will have to be injected into the company. v. 投入，增添
 - feel overwhelmed adj. 感到不知所措的
 - emulate /ˈem.jə.leɪt/ v. 模仿，效仿
-- scaffold  /ˈskæf.əʊld/  n. 脚手架
-- strip sth out  v. 剥离
-- deprecate  /ˈdep.rə.keɪt/   v. 弃用，反对
-- We deprecate this use of company funds for political purposes.  我们反对这种将公司资金用于政治目的的做法。
-- revert /rɪˈvɜːt/  v. 还原；恢复
+- scaffold /ˈskæf.əʊld/ n. 脚手架
+- strip sth out v. 剥离
+- deprecate /ˈdep.rə.keɪt/ v. 弃用，反对
+- We deprecate this use of company funds for political purposes. 我们反对这种将公司资金用于政治目的的做法。
+- revert /rɪˈvɜːt/ v. 还原；恢复
 - suppress v. 压制；抑制
 - She couldn't suppress her annoyance. 压抑
-- symmetric  /sɪˈmet.rɪk/   adj. 对称的
+- symmetric /sɪˈmet.rɪk/ adj. 对称的
+- a graphic designer who was working mainly with figma 一位主要使用 figma 的平面设计师
+- optimal /ˈɒp.tɪ.məl/ adj. 最佳的
+- be liable for adj. 对...负责
+- in contrast to 相比之下
+- interactive /ˌɪn.təˈræk.tɪv/ adj. 交互的
+- a tremendous amount of noise /trɪˈmen.dəs/ adj. 巨大的
+- infant /ˈinfənt/ n. 婴儿
+- enrol /ɪnˈrəʊl/ v. 注册
+- He is enrolled as a part-time student.
+- integrate with /ˈɪn.t̬ə.ɡreɪt/ 使融入，使结合
+- integrate with the latest advancements on Apple platforms 与 Apple 平台上的最新进展集成
+- embrace v. 拥抱；欣然接受
+- execute v. 执行 execute a plan/deal
+- entertaining adj. /en.təˈteɪ.nɪŋ/ 使人愉快的，有趣的
+- an entertaining story/movie
+- immensely /ɪˈmens.li/ adv. 极其，非常
+- She's an immensely talented young athlete. 她是个才华横溢的年轻运动员。
+- rhythm /ˈrɪð.əm/ n. 节奏
+- I've got no sense of rhythm, so I'm a terrible dancer.
+- digest /daɪˈdʒest/ v. 理解，消化 This chapter is so difficult to digest, I'll have to read it again later.
+- count on sb = depend on sb 依靠，指望某人
+- fascinate v. /ˈfæs.ən.eɪt/ 使着迷
+- proficient /prəˈfɪʃ.ənt/ adj. 熟练的，精通的 She's proficient in two languages.
