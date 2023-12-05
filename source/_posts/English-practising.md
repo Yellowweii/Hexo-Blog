@@ -56,3 +56,15 @@ cover: https://www.yellowwei.cn/img/78f4eb6a-9549-45e3-bf57-47ed9a493860.jpg
 - suppress v. 压制；抑制
 - She couldn't suppress her annoyance. 压抑
 - symmetric  /sɪˈmet.rɪk/   adj. 对称的
+- a graphic designer who was working mainly with figma  一位主要使用figma的平面设计师
+- optimal  /ˈɒp.tɪ.məl/  adj. 最佳的
+- be liable for  adj.  对...负责
+- in contrast to  相比之下
+- interactive  /ˌɪn.təˈræk.tɪv/  adj. 交互的
+- a tremendous amount of noise  /trɪˈmen.dəs/   adj. 巨大的
+- infant  /ˈinfənt/  n. 婴儿
+- enrol  /ɪnˈrəʊl/  v. 注册
+- He is enrolled as a part-time student.
+- integrate with   /ˈɪn.t̬ə.ɡreɪt/  使融入，使结合
+- integrate with the latest advancements on Apple platforms    与 Apple 平台上的最新进展集成
+- embrace  v. 拥抱；欣然接受
