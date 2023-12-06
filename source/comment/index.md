@@ -9,3 +9,7 @@ type:
 <hr />
 
 <h1 style="text-align: center;">A good programmer is someone who always looks both ways before crossing a one-way street.  ——Doug Linder</h1>
+
+<hr />
+
+<h1 style="text-align: center;">Life is a wilderness, but you are born free.</h1>
