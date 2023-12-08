@@ -80,3 +80,11 @@ sticky: true
 - count on sb = depend on sb 依靠，指望某人
 - fascinate v. /ˈfæs.ən.eɪt/ 使着迷
 - proficient /prəˈfɪʃ.ənt/ adj. 熟练的，精通的 She's proficient in two languages.
+- hint n.(v.) 暗示，提示
+- Did she give you any hints about where she was going?
+- retrieve /rɪˈtriːv/ v. 找回，取回 We taught our dog to retrieve a ball.
+- primitive /ˈprɪm.ɪ.tɪv/ adj. 原始的 primitive man 原始人
+- cognitively adv. 在认知方面 As you grow cognitively. 当你在认知方面成为
+- instill v. 灌输 How do we instill more social values in the industry? 我们该如何向行业灌输更多的社会价值？
+- discipline n. 纪律；训练 the discipline of studying music
+- resume v. 继续进行
