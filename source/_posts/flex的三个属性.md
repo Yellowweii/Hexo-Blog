@@ -3,7 +3,7 @@ title: flex的三个属性
 tags:
   - CSS
 categories:
-  - 前端
+  - ['Web前端']
 abbrlink: 63417
 date: 2023-12-07 11:37:20
 cover: https://www.yellowwei.cn/img/2023-12-7（4）.jpg

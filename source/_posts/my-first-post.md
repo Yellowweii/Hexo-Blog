@@ -1,8 +1,7 @@
 ---
 title: My First Post
 categories:
-  - hexo
-cover: 'https://www.yellowwei.cn/img/my-first-post.jpg'
+cover: "https://www.yellowwei.cn/img/my-first-post.jpg"
 abbrlink: 62576
 date: 2023-10-22 15:39:31
 ---
