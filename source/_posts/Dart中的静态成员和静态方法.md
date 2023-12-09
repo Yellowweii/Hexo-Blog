@@ -7,7 +7,7 @@ categories:
   - Flutter
 abbrlink: 54667
 date: 2023-12-09 14:00:00
-cover:
+cover: https://www.yellowwei.cn/img/2023-12-9.jpg
 ---
 
 # Dart 中的静态成员和静态方法

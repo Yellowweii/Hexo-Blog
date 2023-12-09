@@ -2,8 +2,7 @@
 title: 对SVG矢量图的认识
 tags:
   - SVG
-categories:
-  - SVG矢量图
+categories: ["Web前端"]
 abbrlink: 4905
 date: 2023-11-26 15:26:30
 cover: https://www.yellowwei.cn/img/2023-11-26.jpg

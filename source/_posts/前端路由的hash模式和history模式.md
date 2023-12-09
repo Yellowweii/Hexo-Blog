@@ -3,7 +3,7 @@ title: 前端路由的hash模式和history模式
 tags:
   - Route
 categories:
-  - 前端
+  - ['Web前端']
 abbrlink: 44868
 date: 2023-12-05 13:41:30
 cover: https://www.yellowwei.cn/img/2023-12-5(2).jpg
