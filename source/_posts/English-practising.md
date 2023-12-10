@@ -88,3 +88,5 @@ sticky: true
 - instill v. 灌输 How do we instill more social values in the industry? 我们该如何向行业灌输更多的社会价值？
 - discipline n. 纪律；训练 the discipline of studying music
 - resume v. 继续进行
+- dimension n. 方面
+- ratio n. 比率 The ratio of men to women at the conference was ten to one/10:1.
