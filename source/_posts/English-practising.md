@@ -90,3 +90,14 @@ sticky: true
 - resume v. 继续进行
 - dimension n. 方面
 - ratio n. 比率 The ratio of men to women at the conference was ten to one/10:1.
+- manipulate /məˈnɪp.jə.leɪt/ v. （以不正当手段）操纵，控制
+- Throughout her career she has very successfully manipulated the media. 她在整个职业生涯中非常成功地控制了媒体。
+- propagate /ˈprɒp.ə.ɡeɪt/ v. 传播，宣传 The doctor is propagating the importance of wearing a mask.
+- tribe n. /traɪb/ 部落
+- ignorant /ˈɪɡ.nər.ənt/ adj. 无知的，愚昧的
+- Many teenagers are surprisingly ignorant about current politics. 许多青少年对时事政治表现出惊人的无知。
+- intimidate /ɪnˈtɪm.ɪ.deɪt/ v. 恐吓，威胁
+- The big tiger is intimidating the small one to leave his territory. 这只大老虎正在恐吓小老虎，让它离开自己的领地。
+- damn /dæm/ Damn, I've spilled coffee down my blouse! 该死。
+- constraint /kənˈstreɪnt/ n. 限制，约束
+- The constraints of politeness wouldn't allow her to say what she really thought about his cooking.
