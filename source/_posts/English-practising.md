@@ -101,3 +101,6 @@ sticky: true
 - damn /dæm/ Damn, I've spilled coffee down my blouse! 该死。
 - constraint /kənˈstreɪnt/ n. 限制，约束
 - The constraints of politeness wouldn't allow her to say what she really thought about his cooking.
+- captivate /ˈkæp.tɪ.veɪt/ v. 使着迷，迷住 With her beauty and charm, she captivated film audiences everywhere.
+- inquisitive /ɪnˈkwɪz.ə.tɪv/ adj. 好问的，爱钻研的 an inquisitive mind 爱钻研的人
+- dedicate /ˈded.ɪ.keɪt/ v. 奉献，献出 He has dedicated his life to scientific research.
