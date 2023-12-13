@@ -113,4 +113,3 @@ sticky: true
 - overhear /ˌəʊ.vəˈhɪər/ v. 无意中听到 I overheard a very funny conversation on the bus this morning.
 - immersive /ɪˈmɜː.sɪv/ adj. 沉浸式的 The new game is more immersive.
 - intense /ɪnˈtens/ adj. 强烈的，剧烈的 He suddenly felt an intense pain in his back.
-
