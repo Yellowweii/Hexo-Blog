@@ -24,7 +24,7 @@ sticky: true
 - prioritize v. 优先考虑
 - subtitle n. 字幕
 - weird /wird/ adj. 诡异的
-- insane /inˈsān/ adj. 疯狂的
+- insane /inˈsān/ adj. 疯狂的 insanity n. 疯狂
 - incentive n. 激励，鼓励
 - learning curve n. 学习曲线
 - upgrade v. 升级，提升
@@ -101,3 +101,15 @@ sticky: true
 - damn /dæm/ Damn, I've spilled coffee down my blouse! 该死。
 - constraint /kənˈstreɪnt/ n. 限制，约束
 - The constraints of politeness wouldn't allow her to say what she really thought about his cooking.
+- captivate /ˈkæp.tɪ.veɪt/ v. 使着迷，迷住 With her beauty and charm, she captivated film audiences everywhere.
+- inquisitive /ɪnˈkwɪz.ə.tɪv/ adj. 好问的，爱钻研的 an inquisitive mind 爱钻研的人
+- dedicate /ˈded.ɪ.keɪt/ v. 奉献，献出 He has dedicated his life to scientific research.
+- address a topic v. 提出一个话题
+- intuitive adj. 直觉的;凭直觉的 Men are often regarded as less intuitive than women.
+- stick /stɪk/ n. 木条，木棍 v. 粘贴 The old man was carrying a load of sticks.
+- I tried to stick the pieces together with some glue/tape.
+- utilize /ˈjuː.təl.aɪz/ v. 利用
+- syntax /ˈsɪn.tæks/ n. 语法，句子结构
+- overhear /ˌəʊ.vəˈhɪər/ v. 无意中听到 I overheard a very funny conversation on the bus this morning.
+- immersive /ɪˈmɜː.sɪv/ adj. 沉浸式的 The new game is more immersive.
+- intense /ɪnˈtens/ adj. 强烈的，剧烈的 He suddenly felt an intense pain in his back.
