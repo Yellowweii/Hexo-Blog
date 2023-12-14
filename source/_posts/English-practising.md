@@ -113,3 +113,13 @@ sticky: true
 - overhear /ˌəʊ.vəˈhɪər/ v. 无意中听到 I overheard a very funny conversation on the bus this morning.
 - immersive /ɪˈmɜː.sɪv/ adj. 沉浸式的 The new game is more immersive.
 - intense /ɪnˈtens/ adj. 强烈的，剧烈的 He suddenly felt an intense pain in his back.
+- strive /straɪv/ v. to try very hard to do something or to make something happen, especially for a long-time or against difficulties
+  With limited resources, they are striving to make the school a better one.
+- pursue /pəˈsjuː/ v. to follow someone or something, usually to try to catch him, her, or it:/ to try very hard to persuade someone to accept a job
+  The company has been pursuing Holton for some time, but so far he has rejected all their offers.
+- enthusiasm n. /ɪnˈθjuː.zi.æz.əm/ a feeling of energetic interest in a particular subject or activity and an eagerness to be involved in it
+  One of the good things about teaching young children is their enthusiasm.
+- trait n. /treɪt/ a particular characteristic that can produce a particular type of behaviour
+- capture v. /ˈkæp.tʃər/ to take someone as a prisoner, or to take something into your possession,especially by force/ to represent or describe something very accurately using words or images
+  Two of the soldiers were killed and the rest were captured.
+  It would be impossible to capture her beauty in a painting.
