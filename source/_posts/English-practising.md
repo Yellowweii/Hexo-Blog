@@ -127,3 +127,6 @@ sticky: true
   Do they have any proof that it was Hampson who stole the goods?
 - intuitive /ɪnˈtʃuː.ɪ.tɪv/ based on feelings rather than facts or proof
   Most people have an intuitive sense of right and wrong.
+- explicit /ɪkˈsplɪs.ɪt/ adj. clear and exact She was very explicit about what she thought was wrong with the plans.
+- implicit /ɪmˈplɪs.ɪt/ adj. suggested but not communicated directly  
+  He interpreted her comments as an implicit criticism of the government.
