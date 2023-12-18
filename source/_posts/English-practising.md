@@ -123,3 +123,7 @@ sticky: true
 - capture v. /ˈkæp.tʃər/ to take someone as a prisoner, or to take something into your possession,especially by force/ to represent or describe something very accurately using words or images
   Two of the soldiers were killed and the rest were captured.
   It would be impossible to capture her beauty in a painting.
+- proof /pruːf/ n. a fact or piece of information that shows that something exists or is true
+  Do they have any proof that it was Hampson who stole the goods?
+- intuitive /ɪnˈtʃuː.ɪ.tɪv/ based on feelings rather than facts or proof
+  Most people have an intuitive sense of right and wrong.
