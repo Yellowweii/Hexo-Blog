@@ -132,3 +132,8 @@ sticky: true
   He interpreted her comments as an implicit criticism of the government.
 - tear /teər/ v. to pull or be pulled apart, or to pull pieces off
   I tore my skirt on the chair as I stood up.
+- intermediary n. /ˌɪn.təˈmiː.di.ə.ri/ someone who carries messages between people who are unwilling or unable to meet
+  The police negotiated with the gunman through an intermediary.
+- whereas /weərˈæz/ conjunction compared with the fact that; but  
+  You eat a huge plate of food for lunch, whereas I have just a sandwich.
+- conjunction /kənˈdʒʌŋk.ʃən/ n. a word such as 'and', 'but', 'while', or 'although' that connects words, phrases, and clauses in a sentence
