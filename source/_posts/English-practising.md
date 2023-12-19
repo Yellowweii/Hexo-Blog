@@ -130,3 +130,5 @@ sticky: true
 - explicit /ɪkˈsplɪs.ɪt/ adj. clear and exact She was very explicit about what she thought was wrong with the plans.
 - implicit /ɪmˈplɪs.ɪt/ adj. suggested but not communicated directly  
   He interpreted her comments as an implicit criticism of the government.
+- tear /teər/ v. to pull or be pulled apart, or to pull pieces off
+  I tore my skirt on the chair as I stood up.
