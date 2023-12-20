@@ -137,3 +137,17 @@ sticky: true
 - whereas /weərˈæz/ conjunction compared with the fact that; but  
   You eat a huge plate of food for lunch, whereas I have just a sandwich.
 - conjunction /kənˈdʒʌŋk.ʃən/ n. a word such as 'and', 'but', 'while', or 'although' that connects words, phrases, and clauses in a sentence
+- forgery /ˈfɔː.dʒər.i/ n. an illegal copy of a document, painting, etc. or the crime of making such illegal copies He increased his income by forgery.
+- confidential /ˌkɒn.fɪˈden.ʃəl/ adj. secret or private, often in a formal, business, or military situation
+- confidentiality /ˌkɒn.fɪ.den.ʃiˈæl.ə.ti/ n. the state of being confidential
+  patient/client confidentiality
+- integrity /ɪnˈteɡ.rə.ti/ n. the quality of being honest and having strong moral principles that you refuse to change
+- cable /ˈkeɪ.bəl/ n. a set of wires, covered by plastic, that carries electricity, phone signals, etc.
+- scheme /skiːm/ n. an organized plan for doing something, especially something dishonest or illegal that will bring a good result for you n. an officially organized plan or system v. to make clever, secret plans that often deceive others
+- deceive /dɪˈsiːv/ v. to persuade someone that something false is the truth, or to keep the truth hidden from someone for your own advantage
+  The company deceived customers by selling old computers as new ones.
+- informative /ɪn'ˈfɔː.mə.tɪv/ adj. providing a lot of useful information
+  This is an interesting and highly informative book.
+- monitor /ˈmɒn.ɪ.tər/ n. a person who has the job of watching or noticing particular things
+  n. a computer screen or a device with a screen on which words or pictures can be shown
+- vice versa /ˌvaɪs ˈvɜː.sə/ adv. used to say that what you have just said is also true in the opposite order If they go away, we have their children and vice versa.
