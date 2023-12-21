@@ -151,3 +151,8 @@ sticky: true
 - monitor /ˈmɒn.ɪ.tər/ n. a person who has the job of watching or noticing particular things
   n. a computer screen or a device with a screen on which words or pictures can be shown
 - vice versa /ˌvaɪs ˈvɜː.sə/ adv. used to say that what you have just said is also true in the opposite order If they go away, we have their children and vice versa.
+- detrimental /ˌdet.rɪˈmen.təl/ adj. causing harm or damage
+  These chemicals have a detrimental effect/impact on the environment.
+- resemble /rɪˈzem.bəl/ v. to look like or be like someone or something
+  You resemble your mother very closely.
+- satellite /ˈsæt.əl.aɪt/ n. a device sent up into space to travel around the earth, used for collecting information or communicating by radio, television, etc.
