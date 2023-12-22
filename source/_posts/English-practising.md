@@ -8,7 +8,7 @@ cover: https://www.yellowwei.cn/img/78f4eb6a-9549-45e3-bf57-47ed9a493860.jpg
 sticky: true
 ---
 
-- hack something together 一起破解某些东西
+- hack something together v. to get into someone else's computer system without permission in order to find out information or do something illegal
 - hear me out 听我说
 - masterfully 熟练地，巧妙地
 - detect 探测，检测
@@ -58,8 +58,9 @@ sticky: true
 - She couldn't suppress her annoyance. 压抑
 - symmetric /sɪˈmet.rɪk/ adj. 对称的
 - a graphic designer who was working mainly with figma 一位主要使用 figma 的平面设计师
-- optimal /ˈɒp.tɪ.məl/ adj. 最佳的
-- be liable for adj. 对...负责
+- optimal /ˈɒp.tɪ.məl/ adj. best; most likely to bring success or advantage
+  Several treatment sessions are required in order to obtain optimal results.
+- be liable for adj. having (legal) responsibility for something or someone
 - in contrast to 相比之下
 - interactive /ˌɪn.təˈræk.tɪv/ adj. 交互的
 - a tremendous amount of noise /trɪˈmen.dəs/ adj. 巨大的
