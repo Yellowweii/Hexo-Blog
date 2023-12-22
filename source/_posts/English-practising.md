@@ -62,25 +62,28 @@ sticky: true
   Several treatment sessions are required in order to obtain optimal results.
 - be liable for adj. having (legal) responsibility for something or someone
 - in contrast to 相比之下
-- interactive /ˌɪn.təˈræk.tɪv/ adj. 交互的
+- interactive /ˌɪn.təˈræk.tɪv/ adj. An interactive system or computer program is designed to involve the user in the exchange of information
+  an interactive game/video
 - a tremendous amount of noise /trɪˈmen.dəs/ adj. 巨大的
 - infant /ˈinfənt/ n. 婴儿
 - enrol /ɪnˈrəʊl/ v. 注册
 - He is enrolled as a part-time student.
 - integrate with /ˈɪn.t̬ə.ɡreɪt/ 使融入，使结合
 - integrate with the latest advancements on Apple platforms 与 Apple 平台上的最新进展集成
-- embrace v. 拥抱；欣然接受
-- execute v. 执行 execute a plan/deal
+- embrace v. to accept something enthusiastically
+- execute v. to do or perform something, especially in a planned way
+  execute a plan/deal
 - entertaining adj. /en.təˈteɪ.nɪŋ/ 使人愉快的，有趣的
 - an entertaining story/movie
 - immensely /ɪˈmens.li/ adv. 极其，非常
 - She's an immensely talented young athlete. 她是个才华横溢的年轻运动员。
 - rhythm /ˈrɪð.əm/ n. 节奏
 - I've got no sense of rhythm, so I'm a terrible dancer.
-- digest /daɪˈdʒest/ v. 理解，消化 This chapter is so difficult to digest, I'll have to read it again later.
+- digest /daɪˈdʒest/ v. to read or hear new information and take the necessary time to understand it This chapter is so difficult to digest, I'll have to read it again later.
 - count on sb = depend on sb 依靠，指望某人
-- fascinate v. /ˈfæs.ən.eɪt/ 使着迷
-- proficient /prəˈfɪʃ.ənt/ adj. 熟练的，精通的 She's proficient in two languages.
+- fascinate v. /ˈfæs.ən.eɪt/ to interest someone a lot
+- proficient /prəˈfɪʃ.ənt/ adj. skilled and experienced
+  She's proficient in two languages.
 - hint n.(v.) 暗示，提示
 - Did she give you any hints about where she was going?
 - retrieve /rɪˈtriːv/ v. 找回，取回 We taught our dog to retrieve a ball.
@@ -157,3 +160,5 @@ sticky: true
 - resemble /rɪˈzem.bəl/ v. to look like or be like someone or something
   You resemble your mother very closely.
 - satellite /ˈsæt.əl.aɪt/ n. a device sent up into space to travel around the earth, used for collecting information or communicating by radio, television, etc.
+- impaired /ɪmˈpeəd/ adj. damaged in a way that makes something less effective
+  She suffers from impaired vision/hearing.
