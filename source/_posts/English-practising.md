@@ -162,3 +162,8 @@ sticky: true
 - satellite /ˈsæt.əl.aɪt/ n. a device sent up into space to travel around the earth, used for collecting information or communicating by radio, television, etc.
 - impaired /ɪmˈpeəd/ adj. damaged in a way that makes something less effective
   She suffers from impaired vision/hearing.
+- on demand phrase. available when a customer wants or asks for something
+  They will sell a voice recognition product as an add-on, on-demand service for their users.
+- hub n. the central or main part of something where there is most activity
+  The City of London is the hub of the UK's financial world.
+- hybrid /ˈhaɪ.brɪd/ n. a plant or animal that has been produced from two different types of plant o- animal, especially to get better characteristics
