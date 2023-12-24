@@ -176,3 +176,14 @@ sticky: true
 - cultivate /ˈkʌl.tɪ.veɪt/ v. to try to develop and improve something/ to prepare land and grow crops on it, or to grow a particular crop
   She has cultivated an image as a tough negotiator.
 - dizziness /ˈdɪz.i.nəs/ n. a temporary feeling that your sense of balance is not good and that you may fall down The sight of blood may cause dizziness in some people.
+- decompose /ˌdiː.kəmˈpəʊz/ v. to break, or to break something, into smaller parts
+  Certain kinds of plastic decompose quickly.
+- modular /ˈmɒdʒ.ə.lər/ adj. consisting of separate parts that, when combined, form a complete whole Modular classrooms were built to remedy the problem of overcrowding in schools.
+- remedy /ˈrem.ə.di/ v. to do something to correct or improve something that is wrong / n.
+  a substance or method for curing an illness, or a way of dealing with a problem or difficulty
+- troubleshoot /ˈtrʌb.əl.ʃuːt/ v. to discover why something does not work effectively and help to improve it A top German engineer has been appointed to troubleshoot the cause of the accident.
+- hence /hens/ adv. that is the reason or explanation for
+- facilitate /fəˈsɪl.ɪ.teɪt/ v. to make something possible or easier
+  The current structure does not facilitate efficient work flow.
+- underlying /ˌʌn.dəˈlaɪ.ɪŋ/ adj. real but not immediately obvious / used to describe something on which something else is based
+  And what might be the underlying significance of these supposedly random acts?
