@@ -167,3 +167,12 @@ sticky: true
 - hub n. the central or main part of something where there is most activity
   The City of London is the hub of the UK's financial world.
 - hybrid /ˈhaɪ.brɪd/ n. a plant or animal that has been produced from two different types of plant o- animal, especially to get better characteristics
+- in case phrase because of a possibility of something happening, being needed, etc.
+  I don't think I'll need any money but I'll bring some just in case.
+- identify /aɪˈden.tɪ.faɪ/ v. to recognize someone or something and say or prove who or what that person or thing is  
+  Even the smallest baby can identify its mother by her voice.
+- analogy /əˈnæl.ə.dʒi/ n. a comparison between things that have similar features, often used to help explain a principle or idea
+  He drew an analogy between the brain and a vast computer.
+- cultivate /ˈkʌl.tɪ.veɪt/ v. to try to develop and improve something/ to prepare land and grow crops on it, or to grow a particular crop
+  She has cultivated an image as a tough negotiator.
+- dizziness /ˈdɪz.i.nəs/ n. a temporary feeling that your sense of balance is not good and that you may fall down The sight of blood may cause dizziness in some people.
