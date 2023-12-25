@@ -187,3 +187,15 @@ sticky: true
   The current structure does not facilitate efficient work flow.
 - underlying /ˌʌn.dəˈlaɪ.ɪŋ/ adj. real but not immediately obvious / used to describe something on which something else is based
   And what might be the underlying significance of these supposedly random acts?
+- amplify /ˈæm.plɪ.faɪ/ to make something louder amplify the signal
+- drawback /ˈdrɔː.bæk/ n. a disadvantage or the negative part of a situation
+  One of the drawbacks of living with someone is having to share a bathroom.
+- defer /dɪˈfɜːr/ v. to delay something until a later time
+  Can we defer making a decision until next week?
+- in terms of phrase used to describe which particular area of a subject you are discussing/ in relation to something
+  In terms of money, I was better off in my last job.
+  We try to do what is best for our customers in terms of the quality of our products.
+- occasion /əˈkeɪ.ʒən/ n. a particular time, especially when something happens or has happened
+  We met on several occasions to discuss the issue.
+- interfere /ˌɪn.təˈfɪər/ v. to involve yourself in a situation when your involvement is not wanted or is not helpful It's their problem and I'm not going to interfere.
+- interference /ˌɪn.təˈfɪə.rəns/ n. an occasion when someone tries to interfere in a situation
