@@ -112,7 +112,8 @@ sticky: true
 - intuitive adj. 直觉的;凭直觉的 Men are often regarded as less intuitive than women.
 - stick /stɪk/ n. 木条，木棍 v. 粘贴 The old man was carrying a load of sticks.
 - I tried to stick the pieces together with some glue/tape.
-- utilize /ˈjuː.təl.aɪz/ v. 利用
+- utilize /ˈjuː.təl.aɪz/ v. to use something in an effective way
+  The vitamins come in a form that is easily utilized by the body.
 - syntax /ˈsɪn.tæks/ n. 语法，句子结构
 - overhear /ˌəʊ.vəˈhɪər/ v. 无意中听到 I overheard a very funny conversation on the bus this morning.
 - immersive /ɪˈmɜː.sɪv/ adj. 沉浸式的 The new game is more immersive.
@@ -199,3 +200,12 @@ sticky: true
   We met on several occasions to discuss the issue.
 - interfere /ˌɪn.təˈfɪər/ v. to involve yourself in a situation when your involvement is not wanted or is not helpful It's their problem and I'm not going to interfere.
 - interference /ˌɪn.təˈfɪə.rəns/ n. an occasion when someone tries to interfere in a situation
+- exclusive /ɪkˈskluː.sɪv/ adj. limited to only one person or group of people/ expensive and only for people who are rich or of a high social class
+  This room is for the exclusive use of guests.
+- capacity /kəˈpæs.ə.ti/ the total amount that can be contained or produced
+- descriptive /dɪˈskrɪp.tɪv/ adj. describing something, especially in a detailed, interesting way
+  a descriptive essay/passage
+- constitute /ˈkɒn.stɪ.tʃuːt/ v. to be or be considered as something
+  Women constitute about ten percent of Parliament.
+- dominate /ˈdɒm.ɪ.neɪt/ v. to have control over a place or person
+  He refuses to let others speak and dominates every meeting.
