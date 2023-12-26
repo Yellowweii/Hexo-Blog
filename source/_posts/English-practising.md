@@ -209,3 +209,6 @@ sticky: true
   Women constitute about ten percent of Parliament.
 - dominate /ˈdɒm.ɪ.neɪt/ v. to have control over a place or person
   He refuses to let others speak and dominates every meeting.
+- profound /prəˈfaʊnd/ adj. felt or experienced very strongly or in an extreme way.
+  His mother's death when he was aged six had a very profound effect on him.
+- autonomous /ɔːˈtɒn.ə.məs/ adj. independent and having the power to make your own decisions
