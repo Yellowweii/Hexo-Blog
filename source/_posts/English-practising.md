@@ -212,3 +212,10 @@ sticky: true
 - profound /prəˈfaʊnd/ adj. felt or experienced very strongly or in an extreme way.
   His mother's death when he was aged six had a very profound effect on him.
 - autonomous /ɔːˈtɒn.ə.məs/ adj. independent and having the power to make your own decisions
+- the pros and cons phrase the advantages and disadvantages of something, especially something that you are considering doing
+- enormous /ɪˈnɔː.məs/ adj. extremely large He earns an enormous salary.
+- corrupt /kəˈrʌpt/ adj. dishonestly using your position or power to get an advantage, especially for money/ When information on a computer becomes corrupt, it cannot be used because it has changed and become wrong
+  Both companies are under investigation for corrupt practices./ a corrupt file
+- preface /ˈpref.ɪs/ an introduction at the beginning of a book explaining its purpose, thanking people who helped the author, etc.
+- revise /rɪˈvaɪz/ v. to look at or consider again an idea, piece of writing, etc. in order to correct or improve it
+  His helpfulness today has made me revise my original opinion/impression of him.
