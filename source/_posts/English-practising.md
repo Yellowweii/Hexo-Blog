@@ -219,3 +219,10 @@ sticky: true
 - preface /ˈpref.ɪs/ an introduction at the beginning of a book explaining its purpose, thanking people who helped the author, etc.
 - revise /rɪˈvaɪz/ v. to look at or consider again an idea, piece of writing, etc. in order to correct or improve it
   His helpfulness today has made me revise my original opinion/impression of him.
+- substantially /səbˈstæn.ʃəl.i/ adv. to a large degree
+  The new rules will substantially change how we do things.
+- sequence /ˈsiː.kwəns/ a series of related things or events, or the order in which they follow each other Is there a particular sequence in which you have to perform these tasks?
+- acknowledge /əkˈnɒl.ɪdʒ/ to accept, admit, or recognize something, or the truth or existence of something/ to tell someone, usually in a letter or email, that you have received something they sent you
+  She acknowledged that she had been at fault./They didn't acknowledge my letter.
+- extensive /ɪkˈsten.sɪv/ adj. covering a large area; having a great range
+  a school with extensive grounds
