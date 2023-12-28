@@ -230,3 +230,9 @@ sticky: true
   Students conducted experiments on the optimal conditions for propagation of tropical plants.(热带植物)
 - inferior /ɪnˈfɪə.ri.ər/ adj. not good, or not as good as someone or something else
   These products are inferior to those we bought last year.
+- collision /kəˈlɪʒ.ən/ n. the violent coming together of two or more moving objects, such as vehicles
+- crosstalk n. a situation in which two or more people in a conversation are talking at the same time
+- applicable /əˈplɪk.ə.bəl/ adj. affecting or relating to a person or thing
+  This part of the law is only applicable to companies employing more than five people.
+- persistent /pəˈsɪs.tənt/ adj. lasting for a long time or difficult to get rid of/ Someone who is persistent continues doing something or tries to do something in a determined but often unreasonable way
+  Be persistent - don't give up.
