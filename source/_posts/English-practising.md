@@ -226,3 +226,7 @@ sticky: true
   She acknowledged that she had been at fault./They didn't acknowledge my letter.
 - extensive /ɪkˈsten.sɪv/ adj. covering a large area; having a great range
   a school with extensive grounds
+- propagation /ˌprɒp.əˈɡeɪ.ʃən/ n. the act of producing a new plant from a parent plant
+  Students conducted experiments on the optimal conditions for propagation of tropical plants.(热带植物)
+- inferior /ɪnˈfɪə.ri.ər/ adj. not good, or not as good as someone or something else
+  These products are inferior to those we bought last year.
