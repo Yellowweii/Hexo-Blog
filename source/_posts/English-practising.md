@@ -236,3 +236,5 @@ sticky: true
   This part of the law is only applicable to companies employing more than five people.
 - persistent /pəˈsɪs.tənt/ adj. lasting for a long time or difficult to get rid of/ Someone who is persistent continues doing something or tries to do something in a determined but often unreasonable way
   Be persistent - don't give up.
+- portion /ˈpɔː.ʃən/ n. /ˈpɔː.ʃən/ a part or share of something larger
+  I accept my portion of the blame.
