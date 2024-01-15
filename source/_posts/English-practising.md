@@ -449,3 +449,151 @@ sticky: true
   He died in mysterious circumstances, and there is still a possibility that it was murder.
 - grasp /ɡrɑːsp/ v. to quickly take something in your hand(s) and hold it firmly / to understand something, especially something difficult
   Rosie suddenly grasped my hand. / I think I managed to grasp the main points of the lecture.
+- assist /əˈsɪst/ v. to help phrases: assist someone with something assist in/with
+  You will be expected to assist the editor with the selection of illustrations for the book.
+  The army arrived to assist in the search.
+- redundant /rɪˈdʌn.dənt/ adj. (especially of a word, phrase, etc.) unnecessary because it is more than is needed / having lost your job because your employer no longer needs you
+  In the sentence "She is a single unmarried woman", the word "unmarried" is redundant. / To keep the company alive, half the workforce is being made redundant.
+- array /əˈreɪ/ n. a large group of things or people, especially one that is attractive or causes admiration or has been positioned in a particular way / v. to arrange a group of things in a particular way
+  They sat before an array of microphones and cameras. / Arrayed (= standing in a group) before him were 40 schoolchildren in purple and green.
+- resounding /rɪˈzaʊn.dɪŋ/ adj. loud / very great Supporters gave the team three resounding cheers. / The plan was a resounding success/failure.
+- insight /ˈɪn.saɪt/ n. (the ability to have) a clear, deep, and sometimes sudden understanding of a complicated problem or situation
+  It was an interesting book, full of fascinating insights into human relationships.
+- complicated /ˈkɒm.plɪ.keɪ.tɪd/ adj. involving a lot of different parts, in a way that is difficult to understand I had to fill in this really complicated form.
+- overview /ˈəʊ.və.vjuː/ n. a short description of something that provides general information about it, but no details
+  I'll give you a brief overview of what the job involves.
+- introductory /ˌɪn.trəˈdʌk.tər.i/ adj. written or said at the beginning an introductory chapter
+- terminology /ˌtɜː.mɪˈnɒl.ə.dʒi/ n. special words or expressions used in relation to a particular subject or activity scientific terminology
+- examine /ɪɡˈzæm.ɪn/ v. to look at or consider a person or thing carefully and in detail in order to discover something about them
+  The research examined the effects of alcohol on long-term memory.
+- quantitative /ˈkwɒn.tɪ.tə.tɪv/ adj. relating to an amount that can be measured
+  quantitative analysis
+- namely /ˈneɪm.li/ adv. used when you want to give more detail or be more exact about something you have just said
+  We need to get more teachers into the classrooms where they're most needed, namely in high poverty areas.
+- poverty /ˈpɒv.ə.ti/ n. the condition of being extremely poor He grew up in poverty.
+- vulnerable /ˈvʌl.nər.ə.bəl/ adj. able to be easily physically or mentally hurt, influenced, or attacked
+  Tourists are more vulnerable to attack, because they do not know which areas of the city to avoid.
+- the nuts and bolts idiom the practical facts about a particular thing, rather than theories or ideas about it
+  When it came to the nuts and bolts of running a business, he was clearly unable to cope.
+- infrastructure /ˈɪn.frəˌstrʌk.tʃər/ n. the basic systems and services, such as transport and power supplies, that a country or organization uses in order to work effectively
+- interconnect /ˌɪn.tə.kəˈnekt/ v. (of two or more things) to connect with or be related to each other
+  The problems of poverty and unemployment are all interconnected.
+- comparison /kəmˈpær.ɪ.sən/ n. the act of comparing two or more people or things
+  They made a comparison of different countries' eating habits. / By/In comparison with the French, the British eat far less fish.
+- regular /ˈreɡ.jə.lər/ adj. happening or doing something often
+  Professional athletes make regular appearances on TV.
+- dedicated /ˈded.ɪ.keɪ.tɪd/ adj. believing that something is very important and giving a lot of time and energy to it / adj. designed to be used for one particular purpose
+  a dedicated sports channel / a dedicated father/teacher
+- charge /tʃɑːdʒ/ v. to ask an amount of money for something, especially a service or activity / (of the police) to make a formal statement saying that someone is accused of a crime
+  charge someone for something Can I charge the company for petrol I use getting to work? /  
+  charge someone with something She is charged with murdering her husband.
+- petrol /ˈpet.rəl/ n. a liquid obtained from petroleum, used especially as a fuel for cars and other vehicles
+- accuse /əˈkjuːz/ v. to say that someone has done something morally wrong, illegal, or unkind
+  accuse someone of something He's been accused of robbery/murder.
+- aim /eɪm/ n. a result that your plans or actions are intended to achieve / v. to intend
+  My main aim in life is to be a good husband and father. / I aim to be a millionaire by the time I'm 35.
+- millionaire /ˌmɪl.jəˈneər/ n. a person who has money, property, etc. that is worth at least 1,000,000 dollars, pounds, euros, etc.
+- property /ˈprɒp.ə.ti/ n. an object or objects that belong to someone
+  The club does not accept responsibility for loss of or damage to club members' personal property.
+- dated /ˈdeɪ.tɪd/ adj. showing the facts or style of the past rather than of the present  
+  This information is dated.
+- hook up v. to meet or begin to work with another person or other people / n. a connection to an electricity supply, a telephone network, the internet, etc.
+  He hooked up with the other members of the band in Amsterdam. / Given the many nontraditional devices that are being hooked up to the Internet.
+- band /bænd/ n. a group of musicians who play modern music together
+- zoom in/out phrasal verb to (cause a camera or computer to) make the image of something or someone appear much larger and nearer, or much smaller and further away
+- estimate /ˈes.tɪ.meɪt/ v. to guess or calculate the cost, size, value, etc. of something / a guess of what the size, value, amount, cost, etc. of something might be
+  They estimate (that) the journey will take at least two weeks. / The number of people who applied for the course was 120 compared with an initial estimate of between 50 and 100.
+- segment /ˈseɡ.mənt/ n. one of the smaller groups or amounts that a larger group or amount can be divided into / v. to divide something into different parts
+  The market is segmented by price into three general categories.
+- reassemble /ˌriː.əˈsem.bəl/ v. to come together again, or bring something together again, in a single place After lunch, the class reassembled.
+- incoming /ˈɪnˌkʌm·ɪŋ/ adj. arriving at, coming into, or entering a place
+  Incoming flights are being delayed because of bad weather.
+- outgoing /ˌaʊtˈɡəʊ.ɪŋ/ adj. (of a person) friendly and energetic and finding it easy and enjoyable to be with others(friendly) / leaving a place, or leaving a job
+  She has an outgoing personality. / Outgoing flights are booked until 15 January.
+- flavor /ˈfleɪ·vər/ n. the particular way a substance, esp. food or drink, is recognized from its taste and smell This soup doesn’t have much flavor.
+- as of idiom starting from a particular time  
+  As of next month, all the prices will go up.
+- hijack /ˈhaɪ.dʒæk/ v. to take control of an aircraft or other vehicle during a journey, especially using violence
+  Two men hijacked a plane travelling to Paris and demanded $125,000.
+- tension /ˈten.ʃən/ n. a feeling of nervousness before an important or difficult event
+  You could feel the tension in the room as we waited for our exam results.
+- stiff /stɪf/ adj. If you are stiff or part of your body is stiff, your muscles hurt when they are moved Sitting still at a computer terminal all day can give you a stiff neck.
+- still /stɪl/ adj. staying in the same position; not moving
+- lest /lest/ conjunction in order to prevent any possibility that something will happen
+  They were afraid to complain about the noise lest they annoyed the neighbours.
+- ambulance /ˈæm.bjə.ləns/ n. a special vehicle used to take sick or injured people to hospital
+- stain /steɪn/ v. to leave a mark on something that is difficult to remove / n. a dirty mark on something that is difficult to remove
+  While she was changing the wheel on her car, her coat had become stained with oil. / You can remove a red wine stain from a carpet by sprinkling salt over it.
+- carpet /ˈkɑː.pɪt/ n. (a shaped piece of) thick material used for covering floors
+- sprinkle /ˈsprɪŋ.kəl/ v. to drop a few pieces or drops of something over a surface
+  Sprinkle a few herbs on the pizza.
+- herb /hɜːb/ n. a type of plant whose leaves are used in cooking to give flavour to particular dishes or in making medicine
+  A large range of herbs and spices are used in South Asian cooking.
+- incident /ˈɪn.sɪ.dənt/ n. an event that is either unpleasant or unusual
+  A youth was seriously injured in a shooting incident on Saturday night.
+- remark /rɪˈmɑːk/ v. to give a spoken statement of an opinion or thought
+  Dr Johnson once remarked (that) "When a man is tired of London, he is tired of life."
+- dull /dʌl/ adj. not interesting or exciting in any way(boring)
+  She wrote dull, respectable articles for the local newspaper.
+- clip /klɪp/ n. a short part of a film or television programme / v. to cut something with scissors or a similar sharp tool, especially to make it tidier
+  I've seen a clip from the film.
+- accumulate /əˈkjuː.mjə.leɪt/ v. to collect a large number of things over a long period of time
+  As people accumulate more wealth, they tend to spend a greater proportion of their incomes.
+- proportion /prəˈpɔː.ʃən/ n. the number or amount of a group or part of something when compared to the whole
+  Children make up a large proportion of the world's population.
+- intensity /ɪnˈten.sə.ti/ n. the quality of being felt strongly or having a very strong effect
+  The explosion was of such intensity that it was heard five miles away.
+- exceed /ɪkˈsiːd/ v. to be greater than a number or amount, or to go past an allowed limit
+  The final cost should not exceed $5,000.
+- chaotic /keɪˈɒt.ɪk/ adj. in a state of chaos The house is a bit chaotic at the moment - we've got all these extra people staying and we're still decorating.
+- coherent /kəʊˈhɪə.rənt/ adj. If an argument, set of ideas, or a plan is coherent, it is clear and carefully considered, and each part of it connects or follows in a natural or reasonable way.
+  The president has not presented a coherent plan for dealing with it.
+- installment /ɪnˈstɔl·mənt/ n. one of a number of payments that you make over a period of time to pay for something that you can use while you are paying for it(分期付款)
+  We paid for the car in monthly installments over two years.
+- leak /liːk/ v. (of a liquid or gas) to escape from a hole or crack in a pipe or container; (of a container) to allow liquid or gas to escape
+  Water was leaking from the pipe.
+- soak /səʊk/ v. to leave something in liquid, especially in order to clean it, make it softer, or change its flavour
+- frontier /ˈfrʌn.tɪər/ n. a border between two countries
+  They lived in a town close to the frontier.
+- vast /vɑːst/ adj. extremely large The vast majority of our students – nearly 90 percent – graduate within four years.
+- within /wɪˈðɪn/ preposition/ adv. inside or not further than an area or period of time
+  We recommend that this wine should be consumed within six months.
+- conceive /kənˈsiːv/ v. to imagine something  
+  I think my uncle still conceives of me as a four-year-old.
+- inception /ɪnˈsep.ʃən/ n. the beginning of an organization or official activity
+  Since its inception in 1968, the company has been at the forefront of computer development.
+- numerous /ˈnjuː.mə.rəs/ adj. many We have discussed these plans on numerous occasions.
+- integral /ˈɪn.tɪ.ɡrəl/ adj. necessary and important as a part of a whole
+  He's an integral part of the team and we can't do without him.
+- thereby /ˌðeəˈbaɪ/ adv. as a result of this action
+  They had failed to agree to a settlement, thereby throwing 250 people out of work.
+- settlement /ˈset.əl.mənt/ n. an official agreement that finishes an argument
+  As part of their divorce settlement, Jeff agreed to let Polly keep the house.
+- agreement /əˈɡriː.mənt/ n. the situation in which people have the same opinion, or in which they approve of or accept something
+- divorce /dɪˈvɔːs/ n. an official or legal process to end a marriage
+  What are the chances of a marriage ending in divorce?
+- domain /dəˈmeɪn/ n. an area of interest or an area over which a person has control
+  She treated the business as her private domain.
+- reside /rɪˈzaɪd/ v. to live, have your home, or stay in a place
+  The family now resides in southern France.
+- activate /ˈæk.tɪ.veɪt/ v. to cause something to start  
+  The alarm is activated by the lightest pressure.
+- coordinate /kəʊˈɔː.dɪ.neɪt/ v. to make many different things work effectively as a whole
+  A number of charities are coordinating their efforts to distribute food to the region.
+- postal /ˈpəʊ.stəl/ adj. relating to post or to the public service that collects and delivers the post
+  the postal service
+- recipient /rɪˈ'sɪp.i.ənt/ n. a person who receives something
+  Former Nobel Peace Prize recipients include Jimmy Carter and Barack Obama.
+- former /'ˈfɔː.mər/ adj. of or in an earlier time; before the present time or in the past
+  the former president of the United States
+- sb be burnt out ill or very tired from working too hard
+- maintain /meɪnˈteɪn/ v. to continue to have; to keep in existence, or not allow to become less
+  The army has been brought in to maintain order in the region.
+- invoke /ɪnˈvəʊk/ v. to use a law in order to achieve something, or to mention something in order to explain something or to support your opinion or action
+  Police can invoke the law to regulate access to these places.
+- regulate /ˈreɡ.jə.leɪt/ v. to control something, especially by making it work in a particular way
+  Her mother strictly regulates how much TV she can watch.
+- destiny /ˈdes.tɪ.ni/ n. the things that will happen in the future
+  People want to control/determine their own destinies.
+- prevalent /ˈprev.əl.ənt/ adj. existing very commonly or happening often
+  These diseases are more prevalent among young children.
