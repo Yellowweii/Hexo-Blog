@@ -33,13 +33,16 @@ sticky: true
 - crucial factor n. 关键因素
 - thoroughly adv. 彻底地
 - tailor your responses to align with the company's culture 调整你的反应与公司的文化保持一致
-- review v. 审查，仔细检查
+- review v. to think or talk about something again, in order to make changes to it or to make a decision about it n. the act of considering something again in order to make changes to it, give an opinion of it or study it
+  The committee is reviewing the current arrangement/situation. / an annual review of company performance
+- annual /ˈæn.ju.əl/ adj. happening once every year
 - demonstrate v. /ˈdemənˌstrāt/ 证明
 - innovation n. 创新
 - articulate their opposition v. 表达清楚他们的反对意见
 - interpretation n. 解释，理解
 - misinterpretation n. 误解
-- eliminate heart disease /iˈlɪmI.neɪt/ v. 排除，消除
+- eliminate heart disease /iˈlɪmI.neɪt/ v. to remove or take away someone or something
+  You can never totally eliminate the possibility of human error.
 - fancy words adj. 复杂的，花哨的单词
 - immerse yourself in sth v. 使沉浸于
 - ingredient n. 原料，成分；因素，要素
@@ -88,15 +91,18 @@ sticky: true
 - hint n.(v.) 暗示，提示
 - Did she give you any hints about where she was going?
 - retrieve /rɪˈtriːv/ v. 找回，取回 We taught our dog to retrieve a ball.
-- primitive /ˈprɪm.ɪ.tɪv/ adj. 原始的 primitive man 原始人
+- primitive /ˈprɪm.ə.t̬ɪv/ adj. 原始的 primitive man 原始人
 - cognitively adv. 在认知方面 As you grow cognitively. 当你在认知方面成为
 - instill /ɪnˈstɪl/ v. to put a feeling, idea, or principle gradually into someone’s mind, so that it has a strong influence on the way the person lives
   How do we instill more social values in the industry?
 - discipline /ˈdɪs.ə.plɪn/ n. training that makes people more willing to obey or more able to control themselves, often in the form of rules, and punishments if these are broken, or the behaviour produced by this training / v. to punish someone
   the discipline of studying music / He was disciplined for his bad conduct.
+- conduct /kənˈdʌkt/ v. to organize and perform a particular activity / n. behaviour
+  We are conducting a survey to find out what our customers think of their local bus service. / bad/excellent/disgraceful conduct
 - resume v. If an activity resumes, or if you resume it, it starts again after a pause
 - dimension n. 方面
 - ratio n. 比率 The ratio of men to women at the conference was ten to one/10:1.
+- conference /ˈkɒn.fər.əns/ n. a large, formal meeting at which there are groups of talks on a particular subject, or a small, private meeting for discussion of a particular matter
 - manipulate /məˈnɪp.jə.leɪt/ v. （以不正当手段）操纵，控制
 - Throughout her career she has very successfully manipulated the media. 她在整个职业生涯中非常成功地控制了媒体。
 - propagate /ˈprɒp.ə.ɡeɪt/ v. 传播，宣传 The doctor is propagating the importance of wearing a mask.
@@ -123,7 +129,8 @@ sticky: true
 - syntax /ˈsɪn.tæks/ n. 语法，句子结构
 - overhear /ˌəʊ.vəˈhɪər/ v. to hear what other people are saying without intending to and without their knowledge
   I overheard a very funny conversation on the bus this morning.
-- immersive /ɪˈmɜː.sɪv/ adj. 沉浸式的 The new game is more immersive.
+- immersive /ɪˈmɜː.sɪv/ adj. seeming to surround the audience, player, etc. so that they feel completely involved in something
+  The new game is more immersive.
 - surround /səˈraʊnd/ to be everywhere around something
   Mystery still surrounds the exact circumstances of Stalin's death.
 - circumstance /ˈsɝː.kəm.stæns/ a fact or event that makes a situation the way it is
@@ -143,6 +150,7 @@ sticky: true
 - capture v. /ˈkæp.tʃər/ to take someone as a prisoner, or to take something into your possession,especially by force/ to represent or describe something very accurately using words or images
   Two of the soldiers were killed and the rest were captured.
   It would be impossible to capture her beauty in a painting.
+- prisoner /ˈprɪz.ən.ər/ n. a person who is kept in prison as a punishment
 - proof /pruːf/ n. a fact or piece of information that shows that something exists or is true
   Do they have any proof that it was Hampson who stole the goods?
 - intuitive /ɪnˈtʃuː.ɪ.tɪv/ based on feelings rather than facts or proof
@@ -161,7 +169,16 @@ sticky: true
 - confidential /ˌkɒn.fɪˈden.ʃəl/ adj. secret or private, often in a formal, business, or military situation
 - confidentiality /ˌkɒn.fɪ.den.ʃiˈæl.ə.ti/ n. the state of being confidential
   patient/client confidentiality
-- integrity /ɪnˈteɡ.rə.ti/ n. the quality of being honest and having strong moral principles that you refuse to change
+- military /ˈmɪl.ɪ.tər.i/ adj. relating to or belonging to the armed forces
+  Many people from the area said the bombs were hitting civilian, rather than military targets.
+- civilian /sɪˈvɪl.jən/ n. a person who is not a member of the police or the armed forces
+  The bomb killed four soldiers and three civilians.
+- integrity /ɪnˈteɡ.rə.ti/ n. the quality of being honest and having strong moral principles that you refuse to change / n. the quality of being whole and complete
+  A modern extension on the old building would ruin its architectural integrity.
+- extension /ɪkˈsten.ʃən/ n. the fact of reaching, stretching, or continuing; the act of adding to something in order to make it bigger or longer
+  The extension (= increasing) of police powers in the province has been heavily criticized.
+- criticize /ˈkrɪt.ɪ.saɪz/ v. to express disapproval of someone or something
+  The government is being widely criticized in the media for failing to limit air pollution.
 - cable /ˈkeɪ.bəl/ n. a set of wires, covered by plastic, that carries electricity, phone signals, etc.
 - scheme /skiːm/ n. an organized plan for doing something, especially something dishonest or illegal that will bring a good result for you n. an officially organized plan or system v. to make clever, secret plans that often deceive others
 - deceive /dɪˈsiːv/ v. to persuade someone that something false is the truth, or to keep the truth hidden from someone for your own advantage
@@ -180,6 +197,8 @@ sticky: true
   She suffers from impaired vision/hearing.
 - on demand phrase. available when a customer wants or asks for something
   They will sell a voice recognition product as an add-on, on-demand service for their users.
+- recognize /ˈrek.əɡ.naɪz/ v. to know someone or something because you have seen or heard him or her or experienced it before
+  I hadn't seen her for 20 years, but I recognized her immediately.
 - hub n. the central or main part of something where there is most activity
   The City of London is the hub of the UK's financial world.
 - hybrid /ˈhaɪ.brɪd/ n. a plant or animal that has been produced from two different types of plant o- animal, especially to get better characteristics
@@ -237,7 +256,7 @@ sticky: true
 - substantially /səbˈstæn.ʃəl.i/ adv. to a large degree
   The new rules will substantially change how we do things.
 - sequence /ˈsiː.kwəns/ a series of related things or events, or the order in which they follow each other Is there a particular sequence in which you have to perform these tasks?
-- acknowledge /əkˈnɒl.ɪdʒ/ to accept, admit, or recognize something, or the truth or existence of something/ to tell someone, usually in a letter or email, that you have received something they sent you
+- acknowledge /əkˈnɒl.ɪdʒ/ v. to accept, admit, or recognize something, or the truth or existence of something/ to tell someone, usually in a letter or email, that you have received something they sent you
   She acknowledged that she had been at fault./They didn't acknowledge my letter.
 - extensive /ɪkˈsten.sɪv/ adj. covering a large area; having a great range
   a school with extensive grounds
@@ -250,7 +269,7 @@ sticky: true
 - applicable /əˈplɪk.ə.bəl/ adj. affecting or relating to a person or thing
   This part of the law is only applicable to companies employing more than five people.
 - persistent /pəˈsɪs.tənt/ adj. lasting for a long time or difficult to get rid of/ Someone who is persistent continues doing something or tries to do something in a determined but often unreasonable way
-  Be persistent - don't give up.
+  Be persistent - don't give up. / Symptoms of the illness include a high temperature and a persistent dry cough.
 - portion /ˈpɔː.ʃən/ n. /ˈpɔː.ʃən/ a part or share of something larger
   I accept my portion of the blame.
 - grant /ɡrɑːnt/ v. to give or allow someone something, usually in an official way
@@ -597,3 +616,128 @@ sticky: true
   People want to control/determine their own destinies.
 - prevalent /ˈprev.əl.ənt/ adj. existing very commonly or happening often
   These diseases are more prevalent among young children.
+- clutter /ˈklʌt.ər/ n. (a lot of objects in) a state of being untidy
+  Sorry about the clutter in the kitchen.
+- perceive /pəˈsiːv/ v. to come to an opinion about something, or have a belief about something / to see something or someone, or to notice something that is obvious
+  How do the French perceive the British? / Bill perceived a tiny figure in the distance.
+- perceived adj. obvious
+- ordinary /ˈɔː.dən.əri/ adj. not different or special or unexpected in any way; usual
+  Readers of the magazine said they wanted more stories about ordinary people and fewer stories about the rich and famous.
+- cultivate /ˈkʌl.tɪ.veɪt/ v. to prepare land and grow crops on it, or to grow a particular crop
+  Most of the land there is too poor to cultivate.
+- seize /siːz/ v. to take something quickly and keep or hold it
+  I seized his arm and made him turn to look at me.
+- be keen on fixed collocation liking, interested in, or wanting (to do) something very much
+  She's keen on playing tennis.
+- occupation n. /ˌɒk.jəˈpeɪ.ʃən/ a person's job
+  Occupations experiencing shortages will need an average of 47% more graduates to meet demand.
+- contaminate /kənˈtæm.ɪ.neɪt/ v. to make something less pure or make it poisonous
+  The food which had been contaminated was destroyed.
+- blow /bləʊ/ n. an unexpected event that has a damaging effect on someone or something
+  Losing his job was a severe blow to his confidence.
+- compress /kəmˈpres/ v. to press something into a smaller space
+- secure /sɪˈkjʊər/ adj. positioned or fixed firmly and correctly and therefore not likely to move, fall, or break That ladder doesn't look very secure to me.
+- lift /lɪft/ v. to move something from a lower to a higher position
+  Could you help me lift this table, please?
+- neutral /ˈnjuː.trəl/ adj. not saying or doing anything that would encourage or help any of the groups involved in an argument or war
+  If there's an argument between my daughter and her mother, it's important that I remain neutral.
+- mindful /ˈmaɪnd.fəl/ adj. careful not to forget about something
+  Mindful of the poor road conditions, she reduced her speed to 30 mph.
+- accomplish /əˈkʌm.plɪʃ/ v. to finish something successfully or to achieve something
+  The students accomplished the task in less than ten minutes.
+- inquiry /ɪn'kwaɪə.ri/ n. (the process of asking) a question
+  I've been making inquiries about/into the cost of a round-the-world ticket.
+- embark on/upon something phrasal verb to start something new or important
+  She graduated in 1962 and embarked on a career as a teacher.
+- stale /steɪl/ adj. no longer new or fresh, usually as a result of being kept for too long
+  The bread/biscuits/cake had gone stale.
+- scale /skeɪl/ n. the size or level of something, especially when this is large
+  We failed to recognize the scale of the problem.
+- cyber-attack /ˈsaɪ.bɚ.əˌtæk/ n. an illegal attempt to harm someone's computer system or the information on it, using the internet
+- sustained /səˈsteɪnd/ adj. continuing for a long time
+  The president's speech was greeted by sustained applause.
+- denote /dɪˈnəʊt/ v. to represent something
+  The colour red is used to denote passion or danger.
+- extend /ɪkˈstend/ v. to add to something in order to make it bigger or longer
+  We're planning to extend our publishing of children's books (= increase it).
+- prominent /ˈprɒm.ɪ.nənt/ adj. very well known and important(famous)
+  The government should be playing a more prominent role in promoting human rights.
+- sequence /ˈsiː.kwəns/ n. a series of related things or events, or the order in which they follow each other Is there a particular sequence in which you have to perform these tasks?
+- traverse /trəˈvɜːs/ v. to move or travel through an area
+  Stanley traversed the continent from west to east.
+- continent /ˈkɒn.tɪ.nənt/ n. one of the seven large land masses on the earth's surface, surrounded, or mainly surrounded, by sea and usually consisting of various countries
+- criminal /ˈkrɪm.ɪ.nəl/ n. someone who commits a crime
+  a dangerous/violent criminal
+- intersection /ˌɪn.təˈsek.ʃən/ n. an occasion when two lines cross, or the place where this happens
+  The intersection of the lines on the graph marks the point where we start to make a profit.
+- segment /seɡˈment/ v. to divide something into different parts
+  The market is segmented by price into three general categories.
+- truck /trʌk/ n. a large road vehicle that is used for transporting large amounts of goods
+  a fleet of trucks a number of aircraft, buses, cars
+- warehouse /ˈweə.haʊs/ n. a large building for storing things before they are sold, used, or sent out to shops
+- logical /ˈlɒdʒ.ɪ.kəl/ adj. reasonable and based on good judgment
+  After the children were grown, moving to a smaller house was the logical thing to do.
+- perspective /pəˈspek.tɪv/ n. a particular way of considering something
+  Her attitude lends a fresh perspective to the subject.
+- as if/as though idiom in a way that seems to show something
+  She acted as though she had never seen me before, when I'd just met her at lunch.
+- notion /ˈnəʊ.ʃən/ n. a belief or idea
+  The show's director rejects the notion that seeing violence on television has a harmful effect on children.
+- chunk /tʃʌŋk/ n. a piece a chunk of cheese/meat
+- note /nəʊt/ v. to notice something Please note (that) we will be closed on Saturday.
+- extract /ɪkˈstrækt/ v. to remove or take out something
+  The oil which is extracted from olives(橄榄) is used for cooking.
+- glimpse /ɡlɪmps/ v. to see something or someone for a very short time or only partly
+  He caught a glimpse of her face.
+- first and foremost idiom more than anything else
+- alternate /ˈɒl.tə.neɪt/ v. to happen or exist one after the other repeatedly
+  She alternated between cheerfulness and deep despair.
+- despair /dɪˈspeər/ n. the feeling that there is no hope and that you can do nothing to improve a difficult or worrying situation
+  Hope began to fade, leaving a mood/sense of despair.
+- redundant /rɪˈdʌn.dənt/ adj. (especially of a word, phrase, etc.) unnecessary because it is more than is needed
+  In the sentence "She is a single unmarried woman", the word "unmarried" is redundant.
+- swear /sweər/ v. to promise or say firmly that you are telling the truth or that you will do something or behave in a particular way
+  I don't know anything about what happened, I swear (it).
+- appropriate /əˈprəʊ.pri.ət/ adj. suitable or right for a particular situation or occasion
+  Is this film appropriate for small children?
+- major /ˈmeɪ.dʒər/ adj. more important, bigger, or more serious than others of the same type / n. the most important subject that a college or university student is studying, or the student himself or herself
+  All of her major plays have been translated into English. / What is your major, English or French?
+- be associated with something /əˈsəʊ.si.eɪt/ phrasal verb If problems or dangers are associated with a particular thing or action, they are caused by it
+  The cancer risks associated with smoking have been well documented.
+- cancer /ˈkæn.sər/ n. a serious disease that is caused when cells in the body grow in a way that is uncontrolled and not normal, killing normal cells and often causing death
+  a cancer patient
+- duplicate /ˈdʒuː.plɪ.keɪt/ v. to make an exact copy of something / adj. being an exact copy of something
+  The documents had been duplicated. / Keep a set of duplicate keys in a safe place, in case you lose the originals.
+- original /əˈrɪdʒ.ən.əl/ adj. existing since the beginning, or being the earliest form of something / n. the first one made and not a copy
+  The gardens have recently been restored to their original glory. / Can you give me the original of your report? I can't read this copy.
+- glory /ˈɡlɔː.ri/ n. great admiration, honour, and praise that you earn by doing something successfully / great beauty, or something special or extremely beautiful, that gives great pleasure
+  This was her final professional match, and she wanted to end her career in a blaze of glory. / hey want to restore the castle to its former glory.
+- restore /rɪˈstɔːr/ v. to return something or someone to an earlier good condition or position
+  After a week in bed, she was fully restored to health (= she felt healthy again).
+- castle /ˈkɑː.səl/ n. a large strong building
+- blaze /bleɪz/ n. a large, strong fire Firefighters took two hours to control the blaze.
+- expire /ɪkˈspaɪər/ v. (of something that lasts for a fixed length of time) to end or stop being in use
+  My passport will expire next year.
+- representative /ˌrep.rɪˈzen.tə.tɪv/ n. someone who speaks or does something officially for another person or group of people
+  The firm has representatives in every major city.
+- hindrance /ˈhɪn.drəns/ n. something that makes it more difficult for you to do something or for something to develop
+  I've never considered my disability a hindrance, but other people have.
+- toxic /ˈtɒk.sɪk/ adj. poisonous toxic waste/chemicals
+- depression /dɪˈpreʃ.ən/ n. the state of feeling very unhappy and without hope for the future
+  I was overwhelmed by feelings of depression.
+- trigger /ˈtrɪɡ.ər/ n. an event or situation, etc. that causes something to start / v. to cause something to start
+  There are fears that the incident may be a trigger for more violence in the capital. / Some people find that certain foods trigger their headaches.
+- incident /ˈɪn.sɪ.dənt/ n. an event that is either unpleasant or unusual
+  A youth was seriously injured in a shooting incident on Saturday night.
+- adequate /ˈæd.ə.kwət/ adj. enough or satisfactory for a particular purpose
+  Have we got adequate food for 20 guests?
+- intake /ˈɪnˌteɪk/ n. the amount of something such as food, breath, or a liquid that is taken in by someone or something
+  a deep intake of breath
+- internship /ˈɪn.tɜːn.ʃɪp/ n. a period of time during which someone works for a company or organization in order to get experience of a particular type of work
+  Jane has a summer internship at a local TV station.
+- superfluous /suːˈpɜː.flu.əs/ adj. more than is needed or wanted
+  Much of the school day is wasted on superfluous activities.
+- voice /vɔɪs/ v. to say what you think about a particular subject, especially to express a doubt, complaint, etc. that you have about it
+  I have voiced my objections to the plan to management.
+- objection /əbˈdʒek.ʃən/ n. a feeling or expression of opposition, dislike, or disapproval
+- management /ˈmæn.ɪdʒ.mənt/ n. the control and organization of something / n. the group of people responsible for controlling and organizing a company
