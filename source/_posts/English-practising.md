@@ -741,3 +741,8 @@ sticky: true
   I have voiced my objections to the plan to management.
 - objection /əbˈdʒek.ʃən/ n. a feeling or expression of opposition, dislike, or disapproval
 - management /ˈmæn.ɪdʒ.mənt/ n. the control and organization of something / n. the group of people responsible for controlling and organizing a company
+- tedious /ˈtiː.di.əs/ adj. boring
+  a tedious job
+- complement /ˈkɒm.plɪ.ment/ v. to make something else seem better or more attractive when combining with it
+  Strawberries and cream complement each other perfectly.
+- iterate /ˈɪt.ər.eɪt/ v. to repeat a process, especially as part of a computer program
